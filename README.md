@@ -95,16 +95,27 @@ Identified major factors contributing to customer churn.
 
 # 📊 Visualizations
 
-The project includes visualizations such as:
+## 📊 Visualizations
 
-- Customer Churn Count
-- Churn Percentage
-- Churn by Gender
-- Churn by Senior Citizen
-- Tenure Distribution
-- Contract Type vs Churn
-- Services vs Churn
-- Payment Method vs Churn
+### Customer Churn Count
+
+![Customer Churn](churn_count.png)
+
+---
+### Customer Churn Percentage
+
+![Customer Churn](churn_percentage.png)
+
+---
+### Churn by Contract Type
+
+![Contract](contract.png)
+
+---
+
+### Churn by Payment Method
+
+![Payment](payment.png)
 
 
 # 📈 Key Insights
@@ -153,4 +164,4 @@ Aspiring Data Analyst
 - 💼 LinkedIn: https://www.linkedin.com/in/dharmik-shah-dataanalyst/
 ---
 
-## ⭐ If you found this project interesting, feel free to star the repository!
+
