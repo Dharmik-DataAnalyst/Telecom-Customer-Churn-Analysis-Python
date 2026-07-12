@@ -1,7 +1,7 @@
 # 📊 Telecom-Customer-Churn-Analysis-Python
 
 
-![Banner](Images/Banner.png)
+![Banner](Banner.png)
 
 ## 📖 Project Overview
 
