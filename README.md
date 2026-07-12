@@ -23,8 +23,6 @@ The goal was to figure out which customers are more likely to churn and why, bas
 
 **Dataset:** Telecom Customer Churn Dataset
 
-![Dataset](Customer Churn.csv)
-
 The dataset contains information about customers such as:
 
 - Customer Demographics
