@@ -156,8 +156,6 @@ I referred to online tutorials and YouTube videos to understand the concepts and
 
 # 👨‍💻 Author
 
-# 👨‍💻 Author
-
 **Dharmik Shah**
 
 Aspiring Data Analyst | Python | SQL | Power BI
