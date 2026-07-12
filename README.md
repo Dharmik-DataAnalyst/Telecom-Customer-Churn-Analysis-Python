@@ -1,17 +1,16 @@
-# 📊 Telecom-Customer-Churn-Analysis-Python
+#  Telecom-Customer-Churn-Analysis-Python
 
 
 ![Banner](Banner.png)
 
-## 📖 Project Overview
+## Project Overview
 
-This repository contains a **Customer Churn Analysis** project built using **Python, Pandas, Matplotlib, and Seaborn** as part of my Data Analytics learning journey.
+This project is an exploratory data analysis of a telecom customer churn dataset, done using Python (Pandas, Matplotlib, Seaborn). I built it while learning data analytics, mainly to get comfortable with EDA, cleaning messy data, and pulling out insights that would actually matter to a business — not just running charts for the sake of it.
 
-The project focuses on performing **Exploratory Data Analysis (EDA)** to identify customer churn patterns, visualize trends, and derive meaningful business insights from a Telecom Customer Churn dataset.
-
+The goal was to figure out which customers are more likely to churn and why, based on things like contract type, tenure, and payment method.
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -20,7 +19,7 @@ The project focuses on performing **Exploratory Data Analysis (EDA)** to identif
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 **Dataset:** Telecom Customer Churn Dataset
 
@@ -42,58 +41,20 @@ The dataset contains information about customers such as:
 
 # 📌 Project Workflow
 
-### 1️⃣ Import Required Libraries
+What I did
 
-- Pandas
-- Matplotlib
-- Seaborn
+# Cleaning: 
+Handled blank values in TotalCharges (converted it to a proper float column), checked for missing values and duplicates.
 
-### 2️⃣ Load Dataset
+# Transformation: 
+Recoded SeniorCitizen from 0/1 to Yes/No for readability, and did a few other tweaks to make the data easier to work with.
 
-- Read CSV file
-- Understand dataset structure
-
-### 3️⃣ Data Cleaning
-
-- Replace blank values
-- Convert TotalCharges to float
-- Check missing values
-- Check duplicate records
-
-### 4️⃣ Data Transformation
-
-- Convert SeniorCitizen values
-- Improve data readability
-
-### 5️⃣ Exploratory Data Analysis (EDA)
-
-Performed analysis using:
-
-- Countplots
-- Pie Charts
-- Histograms
-- Crosstab Analysis
-- GroupBy Operations
-- Stacked Bar Charts
-
-### 6️⃣ Business Insights
-
-Identified major factors contributing to customer churn.
+# EDA:
+Used countplots, pie charts, histograms, crosstabs, groupby operations, and stacked bar charts to look at churn from different angles — by contract type, payment method, tenure, internet service, etc.
 
 ---
 
-## ✨ Features
-
-- Data Cleaning and Preprocessing
-- Missing Value Handling
-- Duplicate Record Detection
-- Exploratory Data Analysis (EDA)
-- Interactive Data Visualizations
-- Business Insight Generation
-
----
-
-# 📊 Visualizations
+# Visualizations
 
 ### Customer Churn Count
 
@@ -117,7 +78,7 @@ Identified major factors contributing to customer churn.
 
 --- 
 
-# 📈 Key Insights
+# Key Insights
 
 - Approximately **26.54%** of customers have churned.
 - Gender has minimal impact on customer churn.
@@ -129,32 +90,13 @@ Identified major factors contributing to customer churn.
 
 ---
 
-# 🎯 Skills Practiced
+# Learning Note
 
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- GroupBy Operations
-- Crosstab Analysis
-- Business Insight Generation
-- Python Programming
-- Pandas
-- Matplotlib
-- Seaborn
+This was a self-driven learning project — I used tutorials and a few YouTube videos to pick up techniques along the way, then applied them here on my own to get hands-on practice with the full EDA workflow.
 
 ---
 
-
-# 📚 Learning Note
-
-This project was created purely for **learning and practice purposes** while studying Python for Data Analytics.
-
-I referred to online tutorials and YouTube videos to understand the concepts and implemented the project independently to strengthen my practical skills in data cleaning, visualization, and exploratory data analysis.
-
----
-
-# 👨‍💻 Author
+# Author
 
 **Dharmik Shah**
 
