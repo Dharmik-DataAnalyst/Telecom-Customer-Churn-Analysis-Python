@@ -39,17 +39,17 @@ The dataset contains information about customers such as:
 
 ---
 
-# 📌 Project Workflow
+# Project Workflow
 
-What I did
+### What I did
 
-# Cleaning: 
+**Cleaning:** 
 Handled blank values in TotalCharges (converted it to a proper float column), checked for missing values and duplicates.
 
-# Transformation: 
+**Transformation:**
 Recoded SeniorCitizen from 0/1 to Yes/No for readability, and did a few other tweaks to make the data easier to work with.
 
-# EDA:
+**EDA:**
 Used countplots, pie charts, histograms, crosstabs, groupby operations, and stacked bar charts to look at churn from different angles — by contract type, payment method, tenure, internet service, etc.
 
 ---
