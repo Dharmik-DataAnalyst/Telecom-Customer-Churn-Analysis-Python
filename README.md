@@ -95,8 +95,6 @@ Identified major factors contributing to customer churn.
 
 # 📊 Visualizations
 
-## 📊 Visualizations
-
 ### Customer Churn Count
 
 ![Customer Churn](churn_count.png)
@@ -117,6 +115,7 @@ Identified major factors contributing to customer churn.
 
 ![Payment](payment.png)
 
+--- 
 
 # 📈 Key Insights
 
@@ -157,11 +156,14 @@ I referred to online tutorials and YouTube videos to understand the concepts and
 
 # 👨‍💻 Author
 
+# 👨‍💻 Author
+
 **Dharmik Shah**
 
-Aspiring Data Analyst
+Aspiring Data Analyst | Python | SQL | Power BI
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dharmik-shah-dataanalyst/
+🔗 LinkedIn:
+https://www.linkedin.com/in/dharmik-shah-dataanalyst/
 ---
 
 
