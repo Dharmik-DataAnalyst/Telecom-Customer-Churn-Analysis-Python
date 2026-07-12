@@ -83,8 +83,7 @@ Used countplots, pie charts, histograms, crosstabs, groupby operations, and stac
 - Approximately **26.54%** of customers have churned.
 - Gender has minimal impact on customer churn.
 - Senior citizens have a comparatively higher churn rate.
-- Customers with **Month-to-Month contracts** are more likely to churn.
-- Customers with shorter tenure are more likely to leave.
+- Customers with **Month-to-Month contracts** and **Shorter Tenure** are more likely to churn.
 - Fiber Optic service users show a higher churn rate.
 - Electronic Check is one of the most common payment methods among churned customers.
 
